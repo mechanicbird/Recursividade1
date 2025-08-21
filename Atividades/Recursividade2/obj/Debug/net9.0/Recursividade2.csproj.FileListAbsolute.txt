@@ -1,0 +1,14 @@
+C:\Users\335667\Desktop\Estruturas de dados\Atividades\Recursividade2\bin\Debug\net9.0\Recursividade2.exe
+C:\Users\335667\Desktop\Estruturas de dados\Atividades\Recursividade2\bin\Debug\net9.0\Recursividade2.deps.json
+C:\Users\335667\Desktop\Estruturas de dados\Atividades\Recursividade2\bin\Debug\net9.0\Recursividade2.runtimeconfig.json
+C:\Users\335667\Desktop\Estruturas de dados\Atividades\Recursividade2\bin\Debug\net9.0\Recursividade2.dll
+C:\Users\335667\Desktop\Estruturas de dados\Atividades\Recursividade2\bin\Debug\net9.0\Recursividade2.pdb
+C:\Users\335667\Desktop\Estruturas de dados\Atividades\Recursividade2\obj\Debug\net9.0\Recursividade2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\335667\Desktop\Estruturas de dados\Atividades\Recursividade2\obj\Debug\net9.0\Recursividade2.AssemblyInfoInputs.cache
+C:\Users\335667\Desktop\Estruturas de dados\Atividades\Recursividade2\obj\Debug\net9.0\Recursividade2.AssemblyInfo.cs
+C:\Users\335667\Desktop\Estruturas de dados\Atividades\Recursividade2\obj\Debug\net9.0\Recursividade2.csproj.CoreCompileInputs.cache
+C:\Users\335667\Desktop\Estruturas de dados\Atividades\Recursividade2\obj\Debug\net9.0\Recursividade2.dll
+C:\Users\335667\Desktop\Estruturas de dados\Atividades\Recursividade2\obj\Debug\net9.0\refint\Recursividade2.dll
+C:\Users\335667\Desktop\Estruturas de dados\Atividades\Recursividade2\obj\Debug\net9.0\Recursividade2.pdb
+C:\Users\335667\Desktop\Estruturas de dados\Atividades\Recursividade2\obj\Debug\net9.0\Recursividade2.genruntimeconfig.cache
+C:\Users\335667\Desktop\Estruturas de dados\Atividades\Recursividade2\obj\Debug\net9.0\ref\Recursividade2.dll
