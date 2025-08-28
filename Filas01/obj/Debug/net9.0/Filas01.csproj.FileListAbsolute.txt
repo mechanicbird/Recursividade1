@@ -1,0 +1,14 @@
+C:\Users\335667\Desktop\Recursividade1-main\Atividades\Filas01\bin\Debug\net9.0\Filas01.exe
+C:\Users\335667\Desktop\Recursividade1-main\Atividades\Filas01\bin\Debug\net9.0\Filas01.deps.json
+C:\Users\335667\Desktop\Recursividade1-main\Atividades\Filas01\bin\Debug\net9.0\Filas01.runtimeconfig.json
+C:\Users\335667\Desktop\Recursividade1-main\Atividades\Filas01\bin\Debug\net9.0\Filas01.dll
+C:\Users\335667\Desktop\Recursividade1-main\Atividades\Filas01\bin\Debug\net9.0\Filas01.pdb
+C:\Users\335667\Desktop\Recursividade1-main\Atividades\Filas01\obj\Debug\net9.0\Filas01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\335667\Desktop\Recursividade1-main\Atividades\Filas01\obj\Debug\net9.0\Filas01.AssemblyInfoInputs.cache
+C:\Users\335667\Desktop\Recursividade1-main\Atividades\Filas01\obj\Debug\net9.0\Filas01.AssemblyInfo.cs
+C:\Users\335667\Desktop\Recursividade1-main\Atividades\Filas01\obj\Debug\net9.0\Filas01.csproj.CoreCompileInputs.cache
+C:\Users\335667\Desktop\Recursividade1-main\Atividades\Filas01\obj\Debug\net9.0\Filas01.dll
+C:\Users\335667\Desktop\Recursividade1-main\Atividades\Filas01\obj\Debug\net9.0\refint\Filas01.dll
+C:\Users\335667\Desktop\Recursividade1-main\Atividades\Filas01\obj\Debug\net9.0\Filas01.pdb
+C:\Users\335667\Desktop\Recursividade1-main\Atividades\Filas01\obj\Debug\net9.0\Filas01.genruntimeconfig.cache
+C:\Users\335667\Desktop\Recursividade1-main\Atividades\Filas01\obj\Debug\net9.0\ref\Filas01.dll
