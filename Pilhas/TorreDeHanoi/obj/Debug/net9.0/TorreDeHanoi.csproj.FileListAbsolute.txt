@@ -1,0 +1,4 @@
+C:\Users\335667\Desktop\Pilhas\TorreDeHanoi\obj\Debug\net9.0\TorreDeHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\335667\Desktop\Pilhas\TorreDeHanoi\obj\Debug\net9.0\TorreDeHanoi.AssemblyInfoInputs.cache
+C:\Users\335667\Desktop\Pilhas\TorreDeHanoi\obj\Debug\net9.0\TorreDeHanoi.AssemblyInfo.cs
+C:\Users\335667\Desktop\Pilhas\TorreDeHanoi\obj\Debug\net9.0\TorreDeHanoi.csproj.CoreCompileInputs.cache

@@ -1,0 +1,4 @@
+C:\Users\335667\Desktop\Pilhas\CallCenter\obj\Debug\net9.0\CallCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\335667\Desktop\Pilhas\CallCenter\obj\Debug\net9.0\CallCenter.AssemblyInfoInputs.cache
+C:\Users\335667\Desktop\Pilhas\CallCenter\obj\Debug\net9.0\CallCenter.AssemblyInfo.cs
+C:\Users\335667\Desktop\Pilhas\CallCenter\obj\Debug\net9.0\CallCenter.csproj.CoreCompileInputs.cache

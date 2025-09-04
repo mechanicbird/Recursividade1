@@ -1,0 +1,14 @@
+C:\Users\335667\Desktop\Pilhas\Pilha de pratos\bin\Debug\net9.0\Pilha de pratos.exe
+C:\Users\335667\Desktop\Pilhas\Pilha de pratos\bin\Debug\net9.0\Pilha de pratos.deps.json
+C:\Users\335667\Desktop\Pilhas\Pilha de pratos\bin\Debug\net9.0\Pilha de pratos.runtimeconfig.json
+C:\Users\335667\Desktop\Pilhas\Pilha de pratos\bin\Debug\net9.0\Pilha de pratos.dll
+C:\Users\335667\Desktop\Pilhas\Pilha de pratos\bin\Debug\net9.0\Pilha de pratos.pdb
+C:\Users\335667\Desktop\Pilhas\Pilha de pratos\obj\Debug\net9.0\Pilha de pratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\335667\Desktop\Pilhas\Pilha de pratos\obj\Debug\net9.0\Pilha de pratos.AssemblyInfoInputs.cache
+C:\Users\335667\Desktop\Pilhas\Pilha de pratos\obj\Debug\net9.0\Pilha de pratos.AssemblyInfo.cs
+C:\Users\335667\Desktop\Pilhas\Pilha de pratos\obj\Debug\net9.0\Pilha de pratos.csproj.CoreCompileInputs.cache
+C:\Users\335667\Desktop\Pilhas\Pilha de pratos\obj\Debug\net9.0\Pilha de pratos.dll
+C:\Users\335667\Desktop\Pilhas\Pilha de pratos\obj\Debug\net9.0\refint\Pilha de pratos.dll
+C:\Users\335667\Desktop\Pilhas\Pilha de pratos\obj\Debug\net9.0\Pilha de pratos.pdb
+C:\Users\335667\Desktop\Pilhas\Pilha de pratos\obj\Debug\net9.0\Pilha de pratos.genruntimeconfig.cache
+C:\Users\335667\Desktop\Pilhas\Pilha de pratos\obj\Debug\net9.0\ref\Pilha de pratos.dll

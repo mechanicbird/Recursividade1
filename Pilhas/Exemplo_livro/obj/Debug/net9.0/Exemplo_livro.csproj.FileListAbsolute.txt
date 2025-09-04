@@ -1,0 +1,4 @@
+C:\Users\335667\Desktop\Pilhas\Exemplo_livro\obj\Debug\net9.0\Exemplo_livro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\335667\Desktop\Pilhas\Exemplo_livro\obj\Debug\net9.0\Exemplo_livro.AssemblyInfoInputs.cache
+C:\Users\335667\Desktop\Pilhas\Exemplo_livro\obj\Debug\net9.0\Exemplo_livro.AssemblyInfo.cs
+C:\Users\335667\Desktop\Pilhas\Exemplo_livro\obj\Debug\net9.0\Exemplo_livro.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\335667\Desktop\Pilhas\pilhasVetor\obj\Debug\net9.0\pilhasVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\335667\Desktop\Pilhas\pilhasVetor\obj\Debug\net9.0\pilhasVetor.AssemblyInfoInputs.cache
+C:\Users\335667\Desktop\Pilhas\pilhasVetor\obj\Debug\net9.0\pilhasVetor.AssemblyInfo.cs
+C:\Users\335667\Desktop\Pilhas\pilhasVetor\obj\Debug\net9.0\pilhasVetor.csproj.CoreCompileInputs.cache
+C:\Users\335667\Desktop\Pilhas\pilhasVetor\bin\Debug\net9.0\pilhasVetor.exe
+C:\Users\335667\Desktop\Pilhas\pilhasVetor\bin\Debug\net9.0\pilhasVetor.deps.json
+C:\Users\335667\Desktop\Pilhas\pilhasVetor\bin\Debug\net9.0\pilhasVetor.runtimeconfig.json
+C:\Users\335667\Desktop\Pilhas\pilhasVetor\bin\Debug\net9.0\pilhasVetor.dll
+C:\Users\335667\Desktop\Pilhas\pilhasVetor\bin\Debug\net9.0\pilhasVetor.pdb
+C:\Users\335667\Desktop\Pilhas\pilhasVetor\obj\Debug\net9.0\pilhasVetor.dll
+C:\Users\335667\Desktop\Pilhas\pilhasVetor\obj\Debug\net9.0\refint\pilhasVetor.dll
+C:\Users\335667\Desktop\Pilhas\pilhasVetor\obj\Debug\net9.0\pilhasVetor.pdb
+C:\Users\335667\Desktop\Pilhas\pilhasVetor\obj\Debug\net9.0\pilhasVetor.genruntimeconfig.cache
+C:\Users\335667\Desktop\Pilhas\pilhasVetor\obj\Debug\net9.0\ref\pilhasVetor.dll
