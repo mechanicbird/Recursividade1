@@ -1,0 +1,4 @@
+C:\Users\335667\Desktop\Recursividade1-main\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\335667\Desktop\Recursividade1-main\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.AssemblyInfoInputs.cache
+C:\Users\335667\Desktop\Recursividade1-main\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.AssemblyInfo.cs
+C:\Users\335667\Desktop\Recursividade1-main\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.csproj.CoreCompileInputs.cache
