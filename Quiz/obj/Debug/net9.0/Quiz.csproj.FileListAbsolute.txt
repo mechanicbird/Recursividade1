@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Recursividade1-main\Quiz\obj\Debug\net9.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Recursividade1-main\Quiz\obj\Debug\net9.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Recursividade1-main\Quiz\obj\Debug\net9.0\Quiz.AssemblyInfo.cs
+C:\Users\User\Desktop\Recursividade1-main\Quiz\obj\Debug\net9.0\Quiz.csproj.CoreCompileInputs.cache
