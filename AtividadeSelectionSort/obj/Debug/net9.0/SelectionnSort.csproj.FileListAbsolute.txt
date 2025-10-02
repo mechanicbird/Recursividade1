@@ -1,0 +1,4 @@
+C:\Users\335667\Desktop\Recursividade1-main\SelectionnSort\obj\Debug\net9.0\SelectionnSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\335667\Desktop\Recursividade1-main\SelectionnSort\obj\Debug\net9.0\SelectionnSort.AssemblyInfoInputs.cache
+C:\Users\335667\Desktop\Recursividade1-main\SelectionnSort\obj\Debug\net9.0\SelectionnSort.AssemblyInfo.cs
+C:\Users\335667\Desktop\Recursividade1-main\SelectionnSort\obj\Debug\net9.0\SelectionnSort.csproj.CoreCompileInputs.cache

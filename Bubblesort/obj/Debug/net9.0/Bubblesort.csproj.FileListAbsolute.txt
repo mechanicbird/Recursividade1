@@ -1,0 +1,4 @@
+C:\Users\335667\Desktop\Recursividade1-main\Bubblesort\obj\Debug\net9.0\Bubblesort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\335667\Desktop\Recursividade1-main\Bubblesort\obj\Debug\net9.0\Bubblesort.AssemblyInfoInputs.cache
+C:\Users\335667\Desktop\Recursividade1-main\Bubblesort\obj\Debug\net9.0\Bubblesort.AssemblyInfo.cs
+C:\Users\335667\Desktop\Recursividade1-main\Bubblesort\obj\Debug\net9.0\Bubblesort.csproj.CoreCompileInputs.cache
